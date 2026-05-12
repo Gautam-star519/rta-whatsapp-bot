@@ -1,2 +1,1 @@
-# rta-whatsapp-bot
-foe any type of support of rta
+# RTA WhatsApp Bot\n\nRun:\n1. pip install -r requirements.txt\n2. copy .env.example .env\n3. python app.py\n\nTest: http://127.0.0.1:5000/test?msg=dividend%20Coal%20India\n
